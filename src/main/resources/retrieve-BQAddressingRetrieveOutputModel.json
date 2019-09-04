@@ -1,0 +1,31 @@
+{
+  "addressingRetrieveActionTaskReference" : "ARATR743084",
+  "addressingRetrieveActionResponse" : "addressingRetrieveActionResponse",
+  "addressingRetrieveActionTaskRecord" : {},
+  "addressingInstanceReport" : {
+    "addressingInstanceReport" : {},
+    "addressingInstanceReportRecord" : {},
+    "addressingInstanceReportType" : "addressingInstanceReportType",
+    "addressingInstanceReportParameters" : "addressingInstanceReportParameters"
+  },
+  "cardClearingProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "762989",
+    "participantIssuerBankReference" : "701512"
+  },
+  "addressingInstanceAnalysis" : {
+    "addressingInstanceAnalysisRecord" : {},
+    "addressingInstanceAnalysisReport" : {},
+    "addressingInstanceAnalysisReportType" : "addressingInstanceAnalysisReportType",
+    "addressingInstanceAnalysisParameters" : "addressingInstanceAnalysisParameters"
+  },
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "734485",
+    "cardTransactionIssuingBankReference" : "784929",
+    "cardTransactionNetworkReference" : "798132",
+    "cardTransactionRecordReference" : "768938",
+    "cardTransactionMerchantAcquiringBankReference" : "758212"
+  },
+  "addressingInstanceRecord" : {
+    "addressingTaskResult" : "addressingTaskResult"
+  }
+}

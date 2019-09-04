@@ -1,0 +1,43 @@
+{
+  "fXConversionInstanceAnalysis" : {
+    "fXConversionInstanceAnalysisParameters" : "fXConversionInstanceAnalysisParameters",
+    "fXConversionInstanceAnalysisReport" : {},
+    "fXConversionInstanceAnalysisReportType" : "fXConversionInstanceAnalysisReportType",
+    "fXConversionInstanceAnalysisRecord" : {}
+  },
+  "fXConversionRetrieveActionTaskReference" : "FCRATR780161",
+  "fXConversionInstanceReport" : {
+    "fXConversionInstanceReportRecord" : {},
+    "fXConversionInstanceReportParameters" : "fXConversionInstanceReportParameters",
+    "fXConversionInstanceReport" : {},
+    "fXConversionInstanceReportType" : "fXConversionInstanceReportType"
+  },
+  "cardClearingProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "781404",
+    "participantIssuerBankReference" : "725295"
+  },
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "766804",
+    "cardTransactionMerchantReference" : "726943",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "792993",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "797694",
+    "cardTransactionLocationReference" : "745989",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "735794",
+    "cardTransactionProductServiceReference" : "759878",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionRecordReference" : "756442",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {}
+  },
+  "fXConversionRetrieveActionResponse" : "fXConversionRetrieveActionResponse",
+  "fXConversionRetrieveActionTaskRecord" : {},
+  "fXConversionInstanceRecord" : {
+    "fXConversionTaskResult" : "fXConversionTaskResult",
+    "fXConversionRatesandFees" : "fXConversionRatesandFees"
+  }
+}

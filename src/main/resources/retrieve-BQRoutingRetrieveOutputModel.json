@@ -1,0 +1,42 @@
+{
+  "routingInstanceRecord" : {
+    "routingTaskResult" : "routingTaskResult"
+  },
+  "routingRetrieveActionTaskReference" : "RRATR771632",
+  "routingRetrieveActionResponse" : "routingRetrieveActionResponse",
+  "routingRetrieveActionTaskRecord" : {},
+  "routingInstanceAnalysis" : {
+    "routingInstanceAnalysisRecord" : {},
+    "routingInstanceAnalysisReportType" : "routingInstanceAnalysisReportType",
+    "routingInstanceAnalysisReport" : {},
+    "routingInstanceAnalysisParameters" : "routingInstanceAnalysisParameters"
+  },
+  "cardClearingProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "730082",
+    "participantIssuerBankReference" : "713442"
+  },
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "744236",
+    "cardTransactionMerchantReference" : "732310",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "724637",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "748706",
+    "cardTransactionLocationReference" : "790020",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "799816",
+    "cardTransactionProductServiceReference" : "713905",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionRecordReference" : "757775",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {}
+  },
+  "routingInstanceReport" : {
+    "routingInstanceReportRecord" : {},
+    "routingInstanceReport" : {},
+    "routingInstanceReportType" : "routingInstanceReportType",
+    "routingInstanceReportParameters" : "routingInstanceReportParameters"
+  }
+}

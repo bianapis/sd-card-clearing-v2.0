@@ -1,0 +1,25 @@
+{
+  "cardClearingProcedureInstanceReportRecord" : {
+    "cardClearingProcedureInstanceReportType" : "cardClearingProcedureInstanceReportType",
+    "cardClearingProcedureInstanceReport" : {},
+    "cardClearingProcedureInstanceReportData" : "cardClearingProcedureInstanceReportData"
+  },
+  "cardClearingProcedureRetrieveActionResponse" : "cardClearingProcedureRetrieveActionResponse",
+  "cardClearingProcedureRetrieveActionTaskReference" : "CCPRATR763600",
+  "cardClearingProcedureInstanceAnalysis" : {
+    "cardClearingProcedureInstanceAnalysisReport" : {},
+    "cardClearingProcedureInstanceAnalysisReportType" : "cardClearingProcedureInstanceAnalysisReportType",
+    "cardClearingProcedureInstanceAnalysisData" : "cardClearingProcedureInstanceAnalysisData"
+  },
+  "cardClearingProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "729688",
+    "cardClearingServiceSchedule" : "cardClearingServiceSchedule",
+    "cardClearingProcessDateTime" : "09-22-2018",
+    "participantIssuerBankReference" : "710245",
+    "participantAcquirerBankClearingandSettlementTerms" : "participantAcquirerBankClearingandSettlementTerms",
+    "participantIssuerBankClearingandSettlementTerms" : "participantIssuerBankClearingandSettlementTerms",
+    "networkReference" : "784341",
+    "cardClearingProcessType" : "cardClearingProcessType"
+  },
+  "cardClearingProcedureRetrieveActionTaskRecord" : {}
+}

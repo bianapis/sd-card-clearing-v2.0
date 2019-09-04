@@ -1,0 +1,23 @@
+{
+  "captureUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "captureUpdateActionTaskReference" : "CUATR764111",
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "725711",
+    "cardTransactionMerchantReference" : "781829",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "795011",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "767958",
+    "cardTransactionLocationReference" : "795312",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "787127",
+    "cardTransactionProductServiceReference" : "702625",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionRecordReference" : "770096",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {}
+  }
+}

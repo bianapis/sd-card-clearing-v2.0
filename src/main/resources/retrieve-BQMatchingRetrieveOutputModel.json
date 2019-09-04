@@ -1,0 +1,42 @@
+{
+  "matchingRetrieveActionTaskRecord" : {},
+  "matchingInstanceReport" : {
+    "matchingInstanceReportParameters" : "matchingInstanceReportParameters",
+    "matchingInstanceReport" : {},
+    "matchingInstanceReportRecord" : {},
+    "matchingInstanceReportType" : "matchingInstanceReportType"
+  },
+  "matchingRetrieveActionTaskReference" : "MRATR764755",
+  "matchingRetrieveActionResponse" : "matchingRetrieveActionResponse",
+  "cardClearingProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "737106",
+    "participantIssuerBankReference" : "792611"
+  },
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "782028",
+    "cardTransactionMerchantReference" : "769426",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "707927",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "791636",
+    "cardTransactionLocationReference" : "767112",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "774908",
+    "cardTransactionProductServiceReference" : "738970",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionRecordReference" : "735820",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {}
+  },
+  "matchingInstanceAnalysis" : {
+    "matchingInstanceAnalysisParameters" : "matchingInstanceAnalysisParameters",
+    "matchingInstanceAnalysisReport" : {},
+    "matchingInstanceAnalysisRecord" : {},
+    "matchingInstanceAnalysisReportType" : "matchingInstanceAnalysisReportType"
+  },
+  "matchingInstanceRecord" : {
+    "matchingTaskResult" : "matchingTaskResult"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "feesUpdateActionTaskRecord" : {},
+  "feesUpdateActionTaskReference" : "FUATR745311",
+  "updateResponseRecord" : {},
+  "feesInstanceRecord" : {
+    "interchargeFees" : "interchargeFees",
+    "feeTaskResult" : "feeTaskResult"
+  }
+}

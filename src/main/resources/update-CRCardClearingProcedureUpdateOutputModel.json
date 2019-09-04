@@ -1,0 +1,15 @@
+{
+  "cardClearingProcedureUpdateActionTaskReference" : "CCPUATR710414",
+  "cardClearingProcedureUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "cardClearingProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "711707",
+    "cardClearingServiceSchedule" : "cardClearingServiceSchedule",
+    "cardClearingProcessDateTime" : "09-22-2018",
+    "participantIssuerBankReference" : "732995",
+    "participantAcquirerBankClearingandSettlementTerms" : "participantAcquirerBankClearingandSettlementTerms",
+    "participantIssuerBankClearingandSettlementTerms" : "participantIssuerBankClearingandSettlementTerms",
+    "networkReference" : "702517",
+    "cardClearingProcessType" : "cardClearingProcessType"
+  }
+}

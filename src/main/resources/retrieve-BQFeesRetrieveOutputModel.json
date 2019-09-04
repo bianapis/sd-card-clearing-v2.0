@@ -1,0 +1,43 @@
+{
+  "feesInstanceReport" : {
+    "feesInstanceReportType" : "feesInstanceReportType",
+    "feesInstanceReport" : {},
+    "feesInstanceReportParameters" : "feesInstanceReportParameters",
+    "feesInstanceReportRecord" : {}
+  },
+  "feesInstanceAnalysis" : {
+    "feesInstanceAnalysisReport" : {},
+    "feesInstanceAnalysisRecord" : {},
+    "feesInstanceAnalysisParameters" : "feesInstanceAnalysisParameters",
+    "feesInstanceAnalysisReportType" : "feesInstanceAnalysisReportType"
+  },
+  "cardClearingProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "775017",
+    "participantIssuerBankReference" : "742024"
+  },
+  "feesRetrieveActionTaskReference" : "FRATR740834",
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "729721",
+    "cardTransactionMerchantReference" : "719653",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "721538",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "760900",
+    "cardTransactionLocationReference" : "750412",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "738948",
+    "cardTransactionProductServiceReference" : "717708",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionRecordReference" : "761013",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {}
+  },
+  "feesRetrieveActionTaskRecord" : {},
+  "feesRetrieveActionResponse" : "feesRetrieveActionResponse",
+  "feesInstanceRecord" : {
+    "interchargeFees" : "interchargeFees",
+    "feeTaskResult" : "feeTaskResult"
+  }
+}

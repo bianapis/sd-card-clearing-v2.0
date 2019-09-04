@@ -1,0 +1,42 @@
+{
+  "reconciliationRetrieveActionTaskRecord" : {},
+  "reconciliationRetrieveActionResponse" : "reconciliationRetrieveActionResponse",
+  "reconciliationInstanceRecord" : {
+    "reconciliationTaskResult" : "reconciliationTaskResult"
+  },
+  "reconciliationInstanceReport" : {
+    "reconciliationInstanceReportType" : "reconciliationInstanceReportType",
+    "reconciliationInstanceReportParameters" : "reconciliationInstanceReportParameters",
+    "reconciliationInstanceReport" : {},
+    "reconciliationInstanceReportRecord" : {}
+  },
+  "cardClearingProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "767058",
+    "participantIssuerBankReference" : "788003"
+  },
+  "reconciliationRetrieveActionTaskReference" : "RRATR711919",
+  "reconciliationInstanceAnalysis" : {
+    "reconciliationInstanceAnalysisRecord" : {},
+    "reconciliationInstanceAnalysisParameters" : "reconciliationInstanceAnalysisParameters",
+    "reconciliationInstanceAnalysisReportType" : "reconciliationInstanceAnalysisReportType",
+    "reconciliationInstanceAnalysisReport" : {}
+  },
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "739571",
+    "cardTransactionMerchantReference" : "726821",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "714062",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "739556",
+    "cardTransactionLocationReference" : "703625",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "742258",
+    "cardTransactionProductServiceReference" : "795769",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionRecordReference" : "731810",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {}
+  }
+}
