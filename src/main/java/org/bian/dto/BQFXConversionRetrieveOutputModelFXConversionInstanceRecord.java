@@ -21,6 +21,7 @@ public class BQFXConversionRetrieveOutputModelFXConversionInstanceRecord   {
    * @return fXConversionRatesandFees
   **/
 
+  @JsonProperty("fXConversionRatesandFees")
   public String getFXConversionRatesandFees() {
     return fXConversionRatesandFees;
   }
@@ -35,6 +36,7 @@ public class BQFXConversionRetrieveOutputModelFXConversionInstanceRecord   {
    * @return fXConversionTaskResult
   **/
 
+  @JsonProperty("fXConversionTaskResult")
   public String getFXConversionTaskResult() {
     return fXConversionTaskResult;
   }

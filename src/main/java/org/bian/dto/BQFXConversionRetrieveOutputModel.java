@@ -66,10 +66,12 @@ public class BQFXConversionRetrieveOutputModel   {
    * @return fXConversionInstanceRecord
   **/
 
+ 
   public BQFXConversionRetrieveOutputModelFXConversionInstanceRecord getFXConversionInstanceRecord() {
     return fXConversionInstanceRecord;
   }
-
+  
+  @JsonProperty("fXConversionInstanceRecord")
   public void setFXConversionInstanceRecord(BQFXConversionRetrieveOutputModelFXConversionInstanceRecord fXConversionInstanceRecord) {
     this.fXConversionInstanceRecord = fXConversionInstanceRecord;
   }
@@ -80,10 +82,12 @@ public class BQFXConversionRetrieveOutputModel   {
    * @return fXConversionRetrieveActionTaskReference
   **/
 
+  
   public String getFXConversionRetrieveActionTaskReference() {
     return fXConversionRetrieveActionTaskReference;
   }
 
+  @JsonProperty("fXConversionRetrieveActionTaskReference")
   public void setFXConversionRetrieveActionTaskReference(String fXConversionRetrieveActionTaskReference) {
     this.fXConversionRetrieveActionTaskReference = fXConversionRetrieveActionTaskReference;
   }
@@ -94,10 +98,12 @@ public class BQFXConversionRetrieveOutputModel   {
    * @return fXConversionRetrieveActionTaskRecord
   **/
 
+  
   public Object getFXConversionRetrieveActionTaskRecord() {
     return fXConversionRetrieveActionTaskRecord;
   }
-
+ 
+  @JsonProperty("fXConversionRetrieveActionTaskRecord")
   public void setFXConversionRetrieveActionTaskRecord(Object fXConversionRetrieveActionTaskRecord) {
     this.fXConversionRetrieveActionTaskRecord = fXConversionRetrieveActionTaskRecord;
   }
@@ -108,10 +114,12 @@ public class BQFXConversionRetrieveOutputModel   {
    * @return fXConversionRetrieveActionResponse
   **/
 
+  
   public String getFXConversionRetrieveActionResponse() {
     return fXConversionRetrieveActionResponse;
   }
 
+  @JsonProperty("fXConversionRetrieveActionResponse")
   public void setFXConversionRetrieveActionResponse(String fXConversionRetrieveActionResponse) {
     this.fXConversionRetrieveActionResponse = fXConversionRetrieveActionResponse;
   }
@@ -122,10 +130,12 @@ public class BQFXConversionRetrieveOutputModel   {
    * @return fXConversionInstanceReport
   **/
 
+  
   public BQFXConversionRetrieveOutputModelFXConversionInstanceReport getFXConversionInstanceReport() {
     return fXConversionInstanceReport;
   }
 
+  @JsonProperty("fXConversionInstanceReport")
   public void setFXConversionInstanceReport(BQFXConversionRetrieveOutputModelFXConversionInstanceReport fXConversionInstanceReport) {
     this.fXConversionInstanceReport = fXConversionInstanceReport;
   }
@@ -136,10 +146,12 @@ public class BQFXConversionRetrieveOutputModel   {
    * @return fXConversionInstanceAnalysis
   **/
 
+  
   public BQFXConversionRetrieveOutputModelFXConversionInstanceAnalysis getFXConversionInstanceAnalysis() {
     return fXConversionInstanceAnalysis;
   }
 
+  @JsonProperty("fXConversionInstanceAnalysis")
   public void setFXConversionInstanceAnalysis(BQFXConversionRetrieveOutputModelFXConversionInstanceAnalysis fXConversionInstanceAnalysis) {
     this.fXConversionInstanceAnalysis = fXConversionInstanceAnalysis;
   }

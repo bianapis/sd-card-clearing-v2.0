@@ -25,6 +25,7 @@ public class BQFXConversionRetrieveOutputModelFXConversionInstanceAnalysis   {
    * @return fXConversionInstanceAnalysisRecord
   **/
 
+  @JsonProperty("fXConversionInstanceAnalysisRecord")
   public Object getFXConversionInstanceAnalysisRecord() {
     return fXConversionInstanceAnalysisRecord;
   }
@@ -39,6 +40,7 @@ public class BQFXConversionRetrieveOutputModelFXConversionInstanceAnalysis   {
    * @return fXConversionInstanceAnalysisReportType
   **/
 
+  @JsonProperty("fXConversionInstanceAnalysisReportType")
   public String getFXConversionInstanceAnalysisReportType() {
     return fXConversionInstanceAnalysisReportType;
   }
@@ -53,6 +55,7 @@ public class BQFXConversionRetrieveOutputModelFXConversionInstanceAnalysis   {
    * @return fXConversionInstanceAnalysisParameters
   **/
 
+  @JsonProperty("fXConversionInstanceAnalysisParameters")
   public String getFXConversionInstanceAnalysisParameters() {
     return fXConversionInstanceAnalysisParameters;
   }
@@ -67,6 +70,7 @@ public class BQFXConversionRetrieveOutputModelFXConversionInstanceAnalysis   {
    * @return fXConversionInstanceAnalysisReport
   **/
 
+  @JsonProperty("fXConversionInstanceAnalysisReport")
   public Object getFXConversionInstanceAnalysisReport() {
     return fXConversionInstanceAnalysisReport;
   }
